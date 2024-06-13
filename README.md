@@ -1,6 +1,10 @@
 # SueyRoebDSP Readme
-# Heading 1
+# Methodology
 
-## Heading 2(subheading)
+This is how I did this
+
+## Theory (subheading)
+
+This is why I did it this way
 
 ### Heading 3 
