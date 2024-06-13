@@ -1,5 +1,6 @@
-# SueyRoebDSP Readme
-# Methodology
+# Suzy's test page
+## Useful links
+[Cheatsheet for code](https://www.markdownguide.org/cheat-sheet/)
 
 This is how I did this
 
