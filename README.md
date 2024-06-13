@@ -1,4 +1,4 @@
-# Suzy's test page
+# **Suzy's test page**
 ## Useful links
 [Cheatsheet for code](https://www.markdownguide.org/cheat-sheet/)
 
