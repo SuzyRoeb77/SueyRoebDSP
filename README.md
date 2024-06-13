@@ -1,6 +1,6 @@
 # **Suzy's test page**
 ## Useful links
-[Cheatsheet for code](https://www.markdownguide.org/cheat-sheet/)
+[Cheatsheet for code](https://www.markdownguide.org/cheat-sheet/)</p>
 [Bigger Cheatsheet for code by GitHub](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
 This is how I did this
